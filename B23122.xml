@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>For the King and Council, these</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23122</idno>
+            <idno type="STC">Wing F1822</idno>
+            <idno type="EEBO-CITATION">14873868</idno>
+            <idno type="OCLC">ocm 14873868</idno>
+            <idno type="VID">206132</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B23122)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206132)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1570:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>For the King and Council, these</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Two letters to King Charles, the first signed and dated: G.F. (George Fox) and J.S. (John Stubbs) London, 16 day, 11 month 1660; the second signed Henry Fell. For authority for joint authorship of first letter, cf. Brit. mus. cat.--NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:206132:1"/>
+            <pb n="1" facs="tcp:206132:1" rendition="simple:additions"/>
+            <head>FOR THE KING AND HIS COUNCIL, THESE.</head>
+            <opener>
+               <salute>OH King <hi>CHARLES,</hi>
+               </salute>
+            </opener>
+            <p>our deſire is, that thou mayeſt live for ever in the fear of God, and thy Council: we beſeech thee and thy Council to read theſe follow<g ref="char:EOLhyphen"/>ing Lines, and in tender Bowels and Compaſſion to read them over; for we write in love and compaſſion to your ſouls, and for your good.</p>
+            <p>And this conſider, we are above four hundred impriſoned in about this City, of men &amp; women from their Families, in cloſe Holes and Priſons, beſides in the Countrey Gaols above ten hundred: And this we deſire, that our Meetings may not be broken up, but that all may come to a fair Tryal, that our innocency may be cleared.</p>
+            <p>Oh! how have you given us up, who are innocent, to be butchered, who wrong no man, nor lift up a hand againſt a<g ref="char:EOLhyphen"/>ny man, neither againſt you nor your Souldiers! But oh how have you let all men, that have neither reaſon, nor mercy, nor diſtinction upon us, which we are known all along, by all the Powers before you, to have been trodden upon by them, as
+<pb n="2" facs="tcp:206132:2"/>ſheep for the ſlaughter; and now we are bruiſed; ſtoned, pri<g ref="char:EOLhyphen"/>ſoned, men and women knocked down, trodden down in the ſtreets, and dirt crumbled in our mouths; the ſimple, innocent and harmleſs, that envies no man upon the earth, cannot paſs up and down in the ſtreets: And its known, that our Princi<g ref="char:EOLhyphen"/>ple is, and hath been, not to revenge our ſelves; &amp; it's known, that them that you have numbred us amongſt, who never de<g ref="char:EOLhyphen"/>nyed the bearing of Sword nor outward Weapons, but whoſe Principle is to avenge themſelves.</p>
+            <p>Oh that you ſhould make no more diſtinction, and ſhould have no more conſideration! For it's Sin, and Wickedneſs, and Filthineſs that we have alwayes declared againſt, that brings people to Ryots, and Plots, and tumultuous Meetings: Therefore, oh that the innocent ſhould be numbred amongſt ſuch, even we who ſeek the peace of all people, and the good of all men; and the Lord God Almighty judge for us, betwixt us and them that we are numbred amongſt, and plead our Cauſe; for we are given up to all the wild people in thy Domi<g ref="char:EOLhyphen"/>nions, that have neither mercy nor manhood, but loſt the ſtate of very Nobility; for we have been a People known in all thy Dominions, and in all thy Iſlands about it, and in ma<g ref="char:EOLhyphen"/>ny other Nations, to whom the Lord hath made many to go out of this Nation, where they have had their paſſage amongſt the heads of other Nations, and had liberty to preach the Goſpel, ſo that many have through the Goſpel been turned to God, yea the very Heathens. And now that we ſhould be reckoned amongſt a people whoſe Principle is to fight and ſwear upon occaſion, and to avenge themſelves, which aſto<g ref="char:EOLhyphen"/>niſhes all them which know it; I believe your own conſcien<g ref="char:EOLhyphen"/>ces tell you, that we are harmleſs, and would do you no harm nor hurt, but wiſh your good: Therefore how can you now make us amends, and clear your ſelves in the ſight of God, for bringing guilt of the innocent upon you, who are in God's hand, to whom we do commit our ſelves, our ſouls, and cauſe, and innocency? and if we be thus wronged, the Lord is our Helper, and we know we are in his hand; therefore can we give our backs to the ſmiter, and our cheeks and hair to them that will ſmite, and pluck it off.</p>
+            <pb n="3" facs="tcp:206132:2"/>
+            <p> But oh how we are grieved for you, who hath thus numbred us, and given us up to be a prey to the Wicked, and are put in your Declaration to be amongſt the Plotters and Fighters, ſo that in all parts, without Mercy or Compaſſion of Men or Women, young or old, with Swords and Piſtols, Clubs and Staves, Dirt and Stones, they fall upon us; yea before Thy Declaration came out againſt us; but now the wicked rejoi<g ref="char:EOLhyphen"/>ces.</p>
+            <p>But oh! our ſorrow and grief is for your own ſelves, though we do ſuffer on every hand; and many of our friends are made a prey upon by armed men, drawn out of houſes, and taken up in the ſtreets to get money of them, under a pretence as taking of them up in ſuſpition, and making thy Name for a cover; and for money might many have their liberty: This is for the liberty of all bad people, now to ſpoil, and to make havock, and to make a gain upon the Inno<g ref="char:EOLhyphen"/>cent: Oh that we ſhould be thus ſold! and oh that violent men without mercy, and compaſſion, and diſtinction, you ſhould put the Sword into their hands: Therefore who ſhould order the multitude, who ſhould order the rude people, who ſhould give underſtanding to the placing of Souldiers, and di<g ref="char:EOLhyphen"/>ſtinguiſh unto them what they ſhould lay the Sword upon, but you that have the Authority? Vengeance is the Lords, and he will repay it; we cannot revenge our ſelves, though by your Declaration we are publiſhed as amongſt the Plotters, to all Nations; but the Lord ſhall plead our Cauſe, to whom we commend our ſelves, and to the hearts of all People our Innocency appears, who trieth us: Therefore our deſire is, let all the Priſoners be brought forth to a Tryal, out of their Holes and Dungeons; And all that lye in the Common<g ref="char:EOLhyphen"/>wealths Name before you; For there is a Teſtimony that we have been ſufferers by the Powers before you; for that is for your honor to do Juſtice, and let Juſtice be done, and let the Offenders be puniſhed, and let the Guiltleſs be ſet free. And now we muſt not meet to Worſhip God, neither muſt we meet together to Edifie one another, according to the Apoſtles Doctrine, and ſtir up the gift in one another; they that feared
+<pb n="4" facs="tcp:206132:3"/>the Lord ſpoke often together, as you may read in <hi>Malachy;</hi> but this is forbidden, wee muſt not meet. And did not the Council forbid the Apoſtles to ſpeak any more in the Name of Jeſus? and did not they preach up and down from houſe to houſe? and had not they Meetings in ſeveral houſes? And did not <hi>Paul</hi> preach together two years in his own hired houſe, in the ſeat of the Emperor at <hi>Rome.</hi>
+            </p>
+            <p>And now if you ſuſpect us, or have jealouſie of us, which you need not, let men come in all our Meetings without vio<g ref="char:EOLhyphen"/>lence, and ſee our Order and manner of our ſpeaking in our Meetings. For it cannot be ſaid that we have forfeited our liberties which was given unto Tender Conſciences, ſo as to be numbred amongſt them that are Fighters; Therefore take not away the Liberty that You have given to Tender Conſciences, that cannot defend themſelves with outward Weapons: For they that Fight and Kill, and riſe up with Carnal Weapons, and plot and riſe up againſt Brethren to kill; they cannot be ſaid to love Enemies. Therefore expoſe us not to all Kingdoms upon the Earth, nor number us among the Plotters; when many of us are to go into many Kingdoms and parts of the World, to declare the Everlaſting Truth and Goſpel, which is no diſgrace to thy Kingdom and Family, that there ſhould be a family of Prophets in it of the moſt High GOD: But if we be numbred amongſt Plotters and Fighters, who never were any Plotters, which was never our Principle; yet in truth we are the Sufferers, and have ſuffer<g ref="char:EOLhyphen"/>ed all things for Chriſt the Elect ſake, and do keep to <hi>Yea</hi> and <hi>Nay</hi> in all our Communications; who deſires that our lives onely may preach to all people upon the Earth. So this we deſire, ſtop the violence of the rude people, this will not be to Your diſgrace: Stop the violence of the Souldiers, that wee may not be made a prey upon, nor abuſed, who cannot de<g ref="char:EOLhyphen"/>fend our ſelves againſt them; for you have our Tribute and Aſſeſſments: And you know this, we might have our liberty in <hi>Turkey,</hi> as both Chriſtians and Jews have, and other parts of the world: And let not our Meetings be broken up, but let us have our Meetings peaceable in the fear of the Lord God,
+<pb n="5" facs="tcp:206132:3"/>and edifie one another to pray in the Holy Ghoſt, and to build up one another in the holy Faith: For what good will it do you to caſt us into Priſon, and to make your ſelves Ex<g ref="char:EOLhyphen"/>amples to other Nations and Kingdoms for ſo doing? Would you ſeparate us from the love of God which we have in Chriſt Jeſus?</p>
+            <closer>
+               <dateline>London, <date>16 day, 11 Month, 1660.</date>
+               </dateline>
+               <signed>From friends of Truth and Innocency,
+<list>
+                     <item>
+                        <hi>G. F.</hi> &amp;</item>
+                     <item>
+                        <hi>J. S.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <opener>
+               <salute>Oh KING!</salute>
+            </opener>
+            <p>WE would have thee to do nothing againſt thy Pro<g ref="char:EOLhyphen"/>ſperity and Nobility. Oh! Hath the like ever been done, as is done to us, (who are an inno<g ref="char:EOLhyphen"/>cent People, and Thy Friends, and not Thy Enemies) among all the Princes in Chriſtendom, to mingle the Innocent among the Tranſgreſſors? Oh! thou ſhouldſt have ſent for half a do<g ref="char:EOLhyphen"/>zen, or half a ſcore of us, and have examined us, that Thou might'ſt have been further ſatisfied concerning our Fidelity and Principles, and that would not have been againſt Thy Nobility: But oh! how is the Innocent mangled by mercileſs men, as though they neither feared God nor man! Oh! limit not the holy One, and quench not the Spirit; nor go about to take away the Lives of the Juſt and Innocent from the earth; Let none perſwade Thee to root out the Saints of the Moſt High God, nor to deſtroy the Meetings of ſuch who meet in the fear of God, and call upon his Name from a pure heart, and are gathered together in the Name of Jeſus: Nor let none perſwade Thee to deſtroy the Heritage of God; for that will not be for thy own comfort with the Lord in the end, for to deſtroy and waſte, and let up the rude people upon the meek and innocent. Neither lay the Law upon ſuch as it was not made for, tha ſeek the Peace of Thee, and all Men upon the Earth. Oh ſtop thoſe haſty Decrees, Declarations, or Procla<g ref="char:EOLhyphen"/>mations, and call them in that doth offend the Righteous and
+<pb n="6" facs="tcp:206132:4"/>upright in heart; for what could You have done more againſt us, if we had been as the Plotters and Fighters, and ſuch as wil take Covenants, and ſwear, and break them upon occaſion? For our Principle is known (I believe) throughout all Chri<g ref="char:EOLhyphen"/>ſtendom, and many other parts of the World, That we can neither bear Arms, nor Swear; And I believe that Thou in Thy Conſcience hath a Teſtimony ſo for us, and believes the ſame. And now the Priſons in every place is filling, and many now full with the innocent and meek of the Earth, and the Lambs of Chriſt, which cannot defend themſelves, which many now in Thy Name will diſhonor themſelves with, or through their violence and cruelty againſt them; and honeſt men com<g ref="char:EOLhyphen"/>ing out of the Countrey about their buſineſs, being Tradeſ<g ref="char:EOLhyphen"/>men, are taken up, and the Oath put to thoſe whom they know for Conſcience-ſake cannot ſwear, and ſo are caſt in pri<g ref="char:EOLhyphen"/>ſon, and made a prey upon.</p>
+            <p>Oh that any ſuch things ſhould proceed from thoſe called Chriſtians, ſeeing that the Chriſtians in the primitive times, were not to ſwear at all, being forbidden by Chriſt, <hi>Matth.</hi> 5. and by the Apoſtle, as <hi>Jam.</hi> 5.</p>
+            <p>But the Lord is our God, who will plead our Cauſe, who hath the hearts of all Kings and men in his hand: But oh that we ſhould find ſuch things among you that have been ſuffer<g ref="char:EOLhyphen"/>ers by the ſame as we have ſuffered before you! And oh that ſuch cruel impriſonments &amp; havock ſhould be found amongſt them that are called Reformed Churches! But we do appeal in our Cauſe to God, and to the Witneſs of God in all your con<g ref="char:EOLhyphen"/>ſciences, that theſe things will not be to your honor in the ſight of God, in the end: Nevertheleſs, if thou wilt do that favour, as to let half a dozen, or half a ſcore, or what num<g ref="char:EOLhyphen"/>ber thou pleaſeſt, come before Thee, that Thou mayeſt be fur<g ref="char:EOLhyphen"/>ther ſatisfied concerning us, before You act ſo againſt us. Oh the violence that is acted in the Countreys and Cities! for now have the wicked people their hearts deſire; this is the day they looked for; they would have had this of the changeable Pow<g ref="char:EOLhyphen"/>ers that were before Thee, though under cruel ſufferings and whippings, and baniſhments, and impriſonments until death,
+<pb n="7" facs="tcp:206132:4"/>which we ſuffered by them; and many Petitions and Addreſſes there were to them, againſt us, whom God did reſtrain from a general falling upon us. Nevertheleſs, we cannot look that theſe things are altogether in thine own heart to be inflicted upon us; For if thou didſt but know the uſage of men and women, which is not within the bounds of modeſty to menti<g ref="char:EOLhyphen"/>on; and if thou didſt but know what a prey we are made of, it could not but break Thy heart, or the heart of any Chriſtian Prince upon the Earth. Is not the Seed of the Church known in Perſecution? Conſider, what wouldſt Thou have done to <hi>Peter</hi> and <hi>John,</hi> when they ſpoke in the Name of Jeſus after the Council had forbidden them, and they met in ſeveral Houſes, which is called the Infancy of the Church? But that theſe things ſhould be found amongſt them that think they are in fuller age! Oh that Chriſtians ſhould ſtop Chriſtians for meeting together to worſhip God! Oh that ever it ſhould be ſaid that ſuch things ſhould be amongſt Chriſtians in Chriſtendom! that they ſhould be reſtrained from meeting together, to build up one another in the moſt holy Faith, which is according to God and Chriſt, and the Apoſtles Commands, as it is declared in the Scriptures of Truth. Therefore let theſe things be con<g ref="char:EOLhyphen"/>ſidered; for Priſons and Dungeons are ſo full, that Friends can ſcarce ſit or lye. Therefore, oh that honeſt men, and ſuch as love Peace and Righteouſneſs, and Thy good, and all mens, ſhould ſee this day! We are againſt violence and plots, and <hi>we that be riſen with Chriſt, ſeek thoſe things which are above,</hi> where Wars and Fightings, Strife and Plots are not, but they are below, and in the Fall from God. And this we ſay, which is more to us then an Oath.</p>
+            <closer>
+               <signed>Henry Fell.</signed>
+            </closer>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
